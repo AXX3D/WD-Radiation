@@ -4,9 +4,9 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
+  <a href="https://github.com/AXX3D/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/Ax33d.png" alt="Ax33d" width="130" height="100">
+    <img src="<a href="https://app.daily.dev/axii"><img src="https://api.daily.dev/devcards/v2/y0CAZfCa1CPN9qM0Sah3N.png?r=nq5&type=wide" width="652" alt="AX3's Dev Card"/></a>" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
   <h3 align="center">Formulating HTML</h3>
