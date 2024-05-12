@@ -114,6 +114,6 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+|Reference For Design|I am using this webpage design as a reference to practice my HTML and CSS skills.| https://images.wondershare.com/mockitt/examples/united-health%20care.jpg|
 ## Documentation
 1. Is this thing on? Check Check
