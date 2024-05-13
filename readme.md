@@ -114,6 +114,6 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-|Reference For Design|I am using this webpage design as a reference to practice my HTML and CSS skills.| https://images.wondershare.com/mockitt/examples/united-health%20care.jpg|
+|Reference For Design|I am using this webpage design as a reference to practice my HTML and CSS skills.| https://static.wixstatic.com/media/3edabd_7d44a749d61f4fd18461f288d3c93944~mv2.jpg/v1/fill/w_924,h_829,al_c,q_85,enc_auto/3edabd_7d44a749d61f4fd18461f288d3c93944~mv2.jpg|
 ## Documentation
 1. Is this thing on? Check Check
