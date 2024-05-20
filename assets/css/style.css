@@ -8,7 +8,8 @@
 {
   width: 200px;
   height: 200px;
-  padding:
+  display: flex;
+  justify-content: center;
 }
 .menu
 {
@@ -55,7 +56,7 @@ body
 {
   position: relative;
   background-color: #25272D;
-  padding: 40px;
+  padding: 20px;
 }
 .imgBox
 {
@@ -64,9 +65,15 @@ body
 .under
 {
   left: 20%;
-  max-width: 320px;
-  text-align: justify;
+  max-width: 65%;
+  text-align:justify;
   color: rgb(224, 224, 224);
+}
+table
+{
+  margin: 0%;
+  padding: 0%;
+  border-spacing: 10px;
 }
 .aboright
 {
